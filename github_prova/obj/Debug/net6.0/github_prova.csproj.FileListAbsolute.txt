@@ -1,0 +1,15 @@
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\github_prova.exe
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\github_prova.deps.json
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\github_prova.runtimeconfig.json
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\github_prova.dll
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\ref\github_prova.dll
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\bin\Debug\net6.0\github_prova.pdb
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.csproj.AssemblyReference.cache
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.AssemblyInfoInputs.cache
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.AssemblyInfo.cs
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.csproj.CoreCompileInputs.cache
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.dll
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\ref\github_prova.dll
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.pdb
+C:\Users\lemuel.cmgomes\source\repos\github_prova\github_prova\obj\Debug\net6.0\github_prova.genruntimeconfig.cache
