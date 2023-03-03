@@ -6,7 +6,6 @@ string voltar = "S";
 string nome = "";
 
 
-
 while (voltar == "S" || voltar == "s")
 {
     Console.WriteLine("Para Cadastras os Alunos digite '1' \n\n\nPara ver as notas e se o ALUNO foi APROVADO ou REPROVADO digite '2'");
@@ -44,15 +43,12 @@ while (voltar == "S" || voltar == "s")
             }     
             case 2:
             {
-                for (linha = 0; linha < 5; linha++)
+                if ()
                 {
-                    if
-                    {
 
-                    }
                 }
-                
-                
+
+
                 break;
             }
     }
